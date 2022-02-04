@@ -1,7 +1,7 @@
 ### Olá! Eu Sou Alberto Fernandes
 
 - 🔭 Participante Hirings Code #2 VTEX IO
-- 🚀 Focado nos estudos das tecnologias FRONT-END VueJs e ReactJs
+- 🚀 Focado nos estudos das tecnologias FRONT-END VueJs
 - 👨‍💻 Atualmente trabalhando como dev front end jr na empresa Jukebox Agenciamento.
 - 📫 Contate-me pelo 
 
