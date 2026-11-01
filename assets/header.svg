@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Alberto Fernandes</title>
+  <desc id="desc">Head de Tecnologia e Produto e desenvolvedor full stack em Vigo, Espanha. Engenharia, produto e inteligência artificial.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101e2a"/><stop offset="1" stop-color="#07131d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#55e1e2"/><stop offset="1" stop-color="#1386bc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="url(#background)"/>
+  <circle cx="1050" cy="60" r="220" fill="#1c6478" opacity=".10"/>
+  <circle cx="740" cy="440" r="170" fill="#1ca3bf" opacity=".06"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="62" y="59" width="7" height="22" rx="3.5" fill="#48d5dc"/>
+    <text x="83" y="76" fill="#91b8c5" font-size="15" font-weight="700" letter-spacing="2.4">TECNOLOGIA · PRODUTO · PESSOAS</text>
+    <text x="60" y="165" fill="#f4f9fa" font-size="66" font-weight="700" letter-spacing="-2">Alberto Fernandes</text>
+    <text x="63" y="211" fill="#61d9df" font-size="23" font-weight="700">Head de Tecnologia &amp; Produto</text>
+    <text x="63" y="259" fill="#c0d1d8" font-size="19">Construindo produtos digitais com engenharia,</text>
+    <text x="63" y="289" fill="#c0d1d8" font-size="19">estratégia e inteligência artificial.</text>
+    <path d="M63 329H535" stroke="#284554"/>
+    <text x="63" y="366" fill="#8cabb8" font-size="15" letter-spacing="1">FULL STACK  /  LIDERANÇA TÉCNICA  /  VIGO, ESPANHA</text>
+  </g>
+  <g fill="none" stroke="#295b6b" stroke-width="1.5">
+    <path d="M815 162L905 116 1008 158 1008 260 906 315 815 264Z"/>
+    <path d="M815 162L906 211 1008 158M906 211V315"/>
+    <circle cx="906" cy="211" r="123" opacity=".45"/>
+    <circle cx="906" cy="211" r="158" opacity=".24"/>
+  </g>
+  <g fill="#47d9df">
+    <circle cx="815" cy="162" r="4"/><circle cx="905" cy="116" r="4"/>
+    <circle cx="1008" cy="158" r="4"/><circle cx="1008" cy="260" r="4"/>
+    <circle cx="906" cy="315" r="4"/><circle cx="815" cy="264" r="4"/>
+  </g>
+  <circle cx="906" cy="211" r="35" fill="#0c2633" stroke="url(#accent)" stroke-width="2"/>
+  <text x="906" y="220" text-anchor="middle" fill="#70e2e6" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">AF</text>
+</svg>
